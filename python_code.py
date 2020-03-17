@@ -1,1 +1,3 @@
-print("Welcome to Datascience Capstone Project from Coursera!!")
+import pandas as pd
+import numpy as np
+print("Hello Capstone Project Course!")
